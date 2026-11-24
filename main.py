@@ -16,6 +16,8 @@ words, (5) a single clean line where every word earns its place.
 machine detail, and it carries the loss — the agent kept every word
 the human ever said. The twist lands in the last few words: not one
 of those words was goodbye, so the agent says it for both of them.
+The em dashes frame the token count as an aside, so the sentence
+reads as one breath: setup, evidence, verdict.
 """
 
 import os
